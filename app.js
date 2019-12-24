@@ -5,6 +5,8 @@ NEW RULES:
 2. Now there is a FINAL score input field where players can set the winning score, so that they can change the predefined score of 100. 
 3. Now there are two dices in a game.
 
+*/
+
 var scores, roundScore, activePlayer, gamePlaying;
 
 init();
